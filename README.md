@@ -10,6 +10,7 @@
 - Python
 - JS
 - CSS
+- Less
 - HTML
 - Django
 - React
