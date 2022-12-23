@@ -3,7 +3,7 @@
 ## I am a 14-year-old developer from Russia, working on becoming a full-stack developer, here you will find all my more or less significant projects. *Perfectionist with deadlines*
 
 - 🔭 I’m currently working on https://github.com/lubaskinc0de/Social-Net
-- 🌱 I’m currently learning JS, trying Go
+- 🌱 I’m currently learning Java!
 
 # Skills
 
