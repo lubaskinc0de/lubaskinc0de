@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Java!
 
 ## You can find me in:
-- [The internet](lubaskin.site)
+- [The internet](https://lubaskin.site)
+- [The telegram](https://t.me/LUBASKIN_CODE)
 
 # Skills
 
