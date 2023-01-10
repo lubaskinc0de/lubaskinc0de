@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on https://github.com/lubaskinc0de/Social-Net
 - 🌱 I’m currently learning Java!
 
-## My site: https://lubaskinc0de.github.io/aboutlubaskin/
+## You can find me in:
+- (The internet)[lubaskin.site]
 
 # Skills
 
