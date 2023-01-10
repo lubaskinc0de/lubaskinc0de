@@ -25,6 +25,6 @@
 # Stats
 
 <div>
-[![lubaskinc0de github stats](https://github-readme-stats.vercel.app/api?username=lubaskinc0de)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api?username=lubaskinc0de)](https://github.com/anuraghazra/github-readme-stats)'>
   </div
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubaskinc0de&theme=tokyonight)
