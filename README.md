@@ -25,5 +25,5 @@
 # Stats
 
 
-![lubaskinc0de GitHub stats](https://github-readme-stats.vercel.app/api?username=lubaskinc0de)]
+![lubaskinc0de GitHub stats](https://github-readme-stats.vercel.app/api?username=lubaskinc0de)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubaskinc0de&theme=tokyonight)
