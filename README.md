@@ -1,4 +1,6 @@
-someone say "clean architecture" ???
+### someone say "clean architecture" ???
+
+14 y.o
 
 - 🔭 I’m currently working on https://github.com/lubaskinc0de/Social-Net
 - 🌱 I’m currently learning Java!
