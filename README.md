@@ -1,8 +1,9 @@
-### someone say "clean architecture" ???
+#### why it's not written on rust?
 
 14 y.o
 
-- 🔭 I’m currently working on https://github.com/lubaskinc0de/Social-Net
+- 🔭 I’m currently working on my minecraft server, doing some Java and Python stuff, freelance
+  
 - 🌱 I’m currently learning Java!
 
 ## You can find me in:
