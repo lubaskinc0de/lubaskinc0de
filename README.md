@@ -2,8 +2,7 @@
 
 14 y.o
 
-- 🔭 I’m currently working on my minecraft server, doing some Java and Python stuff, freelance
-  
+- 🔭 I’m currently working on my minecraft server, doing some Java and Python stuff. I have no job.
 - 🌱 I’m currently learning Java!
 
 ## You can find me in:
@@ -16,7 +15,6 @@
 - JS
 - Java (beginner)
 - CSS
-- Less
 - HTML
 - Django
 - React
