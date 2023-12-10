@@ -23,6 +23,7 @@
 
 # Stats
 
+[![wakatime](https://wakatime.com/badge/github/lubaskinc0de/lubaskinc0de.svg)](https://wakatime.com/badge/github/lubaskinc0de/lubaskinc0de)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubaskinc0de&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
