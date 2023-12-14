@@ -2,8 +2,8 @@
 
 14 y.o
 
-- 🔭 I’m currently working on my minecraft server, doing some Java and Python stuff. I have no job.
-- 🌱 I’m currently learning Java!
+- 🔭 I’m currently working on yourscript.
+- 🌱 I’m currently learning C, Clean-Architecture and Algrotihms!
 
 ## You can find me in:
 - [The internet](https://lubaskin.site)
