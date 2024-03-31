@@ -2,11 +2,7 @@
 
 14 y.o
 
-- 🔭 I’m currently working on yourscript.
-- 🌱 I’m currently learning C, Clean-Architecture and Algrotihms!
-
 ## You can find me in:
-- [The internet](https://lubaskin.site)
 - [The telegram](https://t.me/LUBASKIN_CODE)
 
 # Skills
