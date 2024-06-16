@@ -1,11 +1,10 @@
 <div align=center>
 <img src="https://github.com/lubaskinc0de/lubaskinc0de/blob/main/desmos-graph.gif">
 <h3>14 y.o software engineer</h3>
-</div>
-
-<a href="https://t.me/lubaskinc0de">
+  <a href="https://t.me/lubaskinc0de">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
 </a>
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/280c7358-d8a9-44aa-81b1-ee89e6499271.svg)](https://wakatime.com/@280c7358-d8a9-44aa-81b1-ee89e6499271)
 <img src="https://komarev.com/ghpvc/?username=lubaskinc0de&style=flat-square&color=blue" alt=""/>
