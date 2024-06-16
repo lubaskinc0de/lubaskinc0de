@@ -1,8 +1,7 @@
 <div align=center>
 <img src="https://github.com/lubaskinc0de/lubaskinc0de/blob/main/desmos-graph.gif">
+<h3>14 y.o software engineer</h3>
 </div>
-
-<center>14 y.o software engineer</center>
 
 <a href="https://t.me/lubaskinc0de">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
