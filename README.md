@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src=https://github.com/lubaskinc0de/lubaskinc0de/blob/main/5bbca7513bcf41efb7e7070145eadbab.gif">
+<img src=https://github.com/lubaskinc0de/lubaskinc0de/blob/main/5bbca7513bcf41efb7e7070145eadbab.gif"></img>
   
 <h3>14 y.o software engineer</h3>
   <a href="https://t.me/lubaskinc0de">
