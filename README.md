@@ -1,7 +1,8 @@
-### 14 y.o software engineer
 <div align=center>
 <img src="https://github.com/lubaskinc0de/lubaskinc0de/blob/main/desmos-graph.gif">
 </div>
+
+### 14 y.o software engineer
 
 <a href="https://t.me/lubaskinc0de">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
