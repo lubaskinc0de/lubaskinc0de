@@ -1,5 +1,7 @@
 ### 14 y.o software engineer
 
+<div class="tenor-gif-embed" data-postid="13647807909730196037" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/desmos-graph-math-heart-blueheart-gif-13647807909730196037">Desmos Graph GIF</a>from <a href="https://tenor.com/search/desmos-gifs">Desmos GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <div id="badges">
         <a href="https://t.me/lubaskinc0de">
