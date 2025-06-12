@@ -1,10 +1,15 @@
-<div align=center>
-<img src="https://github.com/lubaskinc0de/lubaskinc0de/blob/main/5bbca7513bcf41efb7e7070145eadbab.gif" height=300 width=500></img>
-  
-<h3>software engineer</h3>
-  <a href="https://t.me/lubaskinc0de">
+<h3>Hi! My name is Ilya.</h3>
+<a href="https://t.me/lubaskinc0de">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
 </a>
+<p>
+  I mostly write the backend in Python. But I've also worked with languages like C#, Rust, and JavaScript. On my github you can find many of my pet projects as well as contributions to various open source projects. Also, <b>i am open to job offers.</b>
+</p>
+<h3>My achievements:</h3>
+<ul>
+  <li><a href="https://prodcontest.ru/">PROD Industrial Programming Olympiad 2025</a> Winner</li>
+  <li><a href="https://lyceum.yandex.ru/">Yandex Lyceum 2024-2025</a> Graduated from Industrial Programming course with honors</li>
+</ul>
 </div>
 
 -----
