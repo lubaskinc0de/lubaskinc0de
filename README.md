@@ -1,9 +1,9 @@
-<h3>Hi! My name is Ilya.</h3>
+<h3>👋 Hi! My name is Ilya.</h3>
 <a href="https://t.me/lubaskinc0de">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
 </a>
 <p>
-  I mostly write the backend in Python. But I've also worked with languages like C#, Rust, and JavaScript. On my github you can find many of my pet projects as well as contributions to various open source projects. Also, <b>i am open to job offers.</b>
+  I'm 15 years old and i'm mostly write the backend in Python. But I've also worked with languages like C#, Rust, and JavaScript. On my github you can find many of my pet projects as well as contributions to various open source projects. Also, <b>i am open to job offers.</b>
 </p>
 <h3>My achievements:</h3>
 <ul>
