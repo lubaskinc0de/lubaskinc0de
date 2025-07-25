@@ -1,4 +1,4 @@
-<h3>👋 Hi! My name is Ilya, living in Russia, Rostov-on-Don.</h3>
+<h3>👋 Hi! My name is Ilya, living in Russia</h3>
 <p>
   I'm 15 years old and i'm mostly write the backend in Python. But I've also worked with languages like C#, Rust, and JavaScript. On my github you can find many of my pet projects as well as contributions to various open source projects. Also, <b>i am open to job offers.</b>
 </p>
